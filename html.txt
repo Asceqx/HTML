@@ -1,0 +1,93 @@
+Heading tag <h1></h1>: Main heading.
+Paragraph tag <p></p>: Paragraph text.
+Anchor tag <a></a>: Hyperlink.
+Abbreviation tag <abbr></abbr>: Abbreviates text.
+Address tag <address></address>: Defines an address.
+Area tag <area>: Defines clickable areas on an image map.
+Article tag <article></article>: Article content.
+Aside tag <aside></aside>: Content separate from main.
+Audio tag <audio></audio>: Embeds audio.
+Bold tag <b></b>: Bold text.
+Base tag <base>: Base URL for links.
+Bdo tag <bdo dir="rtl"></bdo>: Bi-directional text.
+Blockquote tag <blockquote></blockquote>: Block of quoted text.
+Body tag <body></body>: Page body content.
+Br tag <br>: Line break.
+Button tag <button></button>: Clickable button.
+Caption tag <caption></caption>: Table caption.
+Cite tag <cite></cite>: Reference or citation.
+Column tag <col></col>: Table column.
+Data tag <data></data>: Machine-readable data.
+Datalist tag <datalist></datalist>: Input list options.
+DD tag <dd></dd>: Description list item.
+Delete tag <del></del>: Deleted text.
+Details tag <details></details>: Expandable details.
+Dfn tag <dfn></dfn>: Term definition.
+Dialog tag <dialog></dialog>: Dialog box.
+Div tag <div></div>: Block-level container.
+Dl tag <dl></dl>: Description list.
+Em tag <em></em>: Emphasized text.
+Embed tag <embed></embed>: External content.
+Form tag <form></form>: Web form.
+Fieldset tag <fieldset></fieldset>: Groups form elements.
+Figcaption tag <figcaption></figcaption>: Figure caption.
+Figure tag <figure></figure>: Image/diagram.
+Footer tag <footer></footer>: Page footer.
+Hr tag <hr>: Thematic break.
+Iframe tag <iframe></iframe>: Inline frame.
+Image tag <img>: Embedded image.
+Input tag <input>: Form input.
+Insert tag <ins></ins>: Inserted text.
+Kbd tag <kbd></kbd>: Keyboard input.
+Label tag <label></label>: Form label.
+Legend tag <legend></legend>: Fieldset caption.
+Li tag <li></li>: List item.
+Link tag <link></link>: External resource link.
+Main tag <main></main>: Main content.
+Map tag <map></map>: Image map.
+Mark tag <mark></mark>: Highlighted text.
+Menu tag <menu></menu>: Menu list.
+Meta tag <meta></meta>: Metadata.
+Nav tag <nav></nav>: Navigation links.
+Noscript tag <noscript></noscript>: Content if JavaScript is disabled.
+Object tag <object></object>: External object.
+Ol tag <ol></ol>: Ordered list.
+Optgroup tag <optgroup></optgroup>: Grouped options.
+Option tag <option></option>: Dropdown option.
+Output tag <output></output>: Calculation result.
+Param tag <param></param>: Object parameter.
+Picture tag <picture></picture>: Responsive image.
+Pre tag <pre></pre>: Preformatted text.
+Progress tag <progress></progress>: Progress indicator.
+Q tag <q></q>: Inline quote.
+S tag <s></s>: Strikethrough text.
+Samp tag <samp></samp>: Program output.
+Script tag <script></script>: Embedded script.
+Search tag <search></search>: Search field.
+Section tag <section></section>: Section of content.
+Select tag <select></select>: Dropdown.
+Small tag <small></small>: Small text.
+Source tag <source></source>: Media source.
+Span tag <span></span>: Inline container.
+Strong tag <strong></strong>: Important text.
+Style tag <style></style>: Internal CSS.
+Subscript tag <sub></sub>: Subscript text.
+Superscript tag <sup></sup>: Superscript text.
+Summary tag <summary></summary>: Collapsible summary.
+Svg tag <svg></svg>: Scalable vector graphic.
+Table tag <table></table>: Table.
+Tbody tag <tbody></tbody>: Table body.
+Td tag <td></td>: Table cell.
+Template tag <template></template>: Hidden content.
+Textarea tag <textarea></textarea>: Multiline text input.
+Tfoot tag <tfoot></tfoot>: Table footer.
+Th tag <th></th>: Table header.
+Thead tag <thead></thead>: Table header group.
+Time tag <time></time>: Date/time.
+Title tag <title></title>: Page title.
+Tr tag <tr></tr>: Table row.
+U tag <u></u>: Underlined text.
+Ul tag <ul></ul>: Unordered list.
+Var tag <var></var>: Variable.
+Video tag <video></video>: Embedded video.
+Wbr tag <wbr></wbr>: Word break opportunity.
